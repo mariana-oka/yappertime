@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Forward, Menu, Play, Pause, Twitter } from 'lucide-react';
+import { Menu, Play, Pause, Twitter } from 'lucide-react';
 
 const Logo = () => (
   <div className="absolute top-4 left-1/2 -translate-x-1/2 flex items-center space-x-2">
