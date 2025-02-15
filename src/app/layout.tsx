@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Yapper Time",
   description: "Discover the art of meaningful conversations with timed discussion prompts. Perfect for social gatherings, team building, and deeper connections.",
   icons: {
     icon: [
@@ -26,6 +26,8 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
+    title: "Yapper Time",
+    description: "Discover the art of meaningful conversations with timed discussion prompts. Perfect for social gatherings, team building, and deeper connections.",
     images: [{
       url: 'https://res.cloudinary.com/dk9mn4cvz/image/upload/v1732164419/YapperTime-Conversation-Starters-Mariana-Oka_lwmdth.jpg',
     }],
